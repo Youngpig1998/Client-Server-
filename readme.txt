@@ -1,15 +1,3 @@
-hello   world
+hello world
 
-create a new branch called dev
-
-
-
-ihsdfsdf
-
-
-在master中添加一行
-
-在dev中添加一行
-
-
-sdfdsf
+在master分支中进行的操作
